@@ -1,4 +1,4 @@
-### Hi
+### ( ´ ▽ ` )
 
 <!--
 **toilacube/toilacube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a student who is interested in data stuff
+“I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." - Will Smith, The Pursuit Of Happiness(2006)
