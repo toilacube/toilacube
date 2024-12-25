@@ -1,7 +1,7 @@
 # ( ´ ▽ ` ) ______(￣▽￣) ______ (￣ε￣＠) 
 
 <h1 align="center">Hi 👋, I'm toilacube</h1>
-<h3 align="center">A passionate developer, can learn everything</h3>
+<h3 align="center">hoc hoc nua hoc mai</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
